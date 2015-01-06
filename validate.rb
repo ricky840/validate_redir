@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'pry'
+# require 'pry'
 require 'nokogiri'
 require 'uri'
 require 'net/http'
